@@ -5,12 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="CustomerSupportApp" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="CustomerSupportApp" android:name="md5840b80b99c55e3088feed827926b4a9e.MainActivity">
-      <intent-filter>
-        <action android:name="android.intent.action.MAIN" />
-        <category android:name="android.intent.category.LAUNCHER" />
-      </intent-filter>
-    </activity>
+    <activity android:icon="@drawable/icon" android:label="CustomerSupportApp" android:name="md5840b80b99c55e3088feed827926b4a9e.MainActivity" />
     <activity android:label="CustomerSupportApp" android:theme="@style/Theme.Splash" android:name="md5840b80b99c55e3088feed827926b4a9e.SplashActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

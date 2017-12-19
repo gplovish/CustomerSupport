@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace CustomerSupportApp
 {
-    [Activity(Label = "CustomerSupportApp", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "CustomerSupportApp", Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
