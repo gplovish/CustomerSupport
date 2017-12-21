@@ -45,7 +45,16 @@ namespace CustomerSupportApp
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int Border = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int Icon = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int logo = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int splash = 2130837507;
 			
 			static Drawable()
 			{
@@ -57,11 +66,48 @@ namespace CustomerSupportApp
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f060002
+			public const int email = 2131099650;
+			
+			// aapt resource value: 0x7f060003
+			public const int errorEmailLogin = 2131099651;
+			
+			// aapt resource value: 0x7f060005
+			public const int errorPasswordLogin = 2131099653;
+			
+			// aapt resource value: 0x7f060000
+			public const int imageView = 2131099648;
+			
+			// aapt resource value: 0x7f060001
+			public const int loginErrorMsg = 2131099649;
+			
+			// aapt resource value: 0x7f060006
+			public const int loginbtn = 2131099654;
+			
+			// aapt resource value: 0x7f060004
+			public const int password = 2131099652;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Notifications = 2130903041;
 			
 			static Layout()
 			{
@@ -73,11 +119,36 @@ namespace CustomerSupportApp
 			}
 		}
 		
-		public partial class Style
+		public partial class String
 		{
 			
 			// aapt resource value: 0x7f040000
-			public const int Theme_Splash = 2130968576;
+			public const int ApplicationName = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int emailhint = 2130968577;
+			
+			// aapt resource value: 0x7f040003
+			public const int loginURL = 2130968579;
+			
+			// aapt resource value: 0x7f040002
+			public const int pwdhint = 2130968578;
+			
+			static String()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f050000
+			public const int Theme_Splash = 2131034112;
 			
 			static Style()
 			{

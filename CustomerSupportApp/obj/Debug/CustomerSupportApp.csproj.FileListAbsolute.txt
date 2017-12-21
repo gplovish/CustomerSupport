@@ -1,4 +1,3 @@
-D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\CustomerSupportApp.csprojResolveAssemblyReference.cache
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\CustomerSupportApp.dll
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\CustomerSupportApp.pdb
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\CustomerSupportApp.CustomerSupportApp.apk
@@ -11,7 +10,12 @@ D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\res\drawable\icon.pn
 D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\res\values\style.xml
 D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\R.cs.flag
 D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\uploadflags.txt
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\res\drawable\logo.png
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\res\drawable\splash.jpg
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\res\drawable\border.xml
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\CustomerSupportApp.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\CustomerSupportApp.csprojResolveAssemblyReference.cache
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\res\values\strings.xml
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\Java.Interop.dll.mdb
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\Mono.Android.dll.mdb
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\mscorlib.dll.mdb
@@ -35,5 +39,16 @@ D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\Syste
 D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\Mono.CSharp.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\System.IO.Compression.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\System.Numerics.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\android\assets\System.Numerics.dll.mdb
+D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\res\layout\notifications.xml
 D:\Projects\CustomerSupportApp\CustomerSupportApp\obj\Debug\CustomerSupportApp.dll.mdb
 D:\Projects\CustomerSupportApp\CustomerSupportApp\bin\Debug\CustomerSupportApp.dll.mdb
